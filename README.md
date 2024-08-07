@@ -17,4 +17,3 @@ CashWise is designed to be a practical tool for personal finance management. Thi
 - **React**: A JavaScript library for building user interfaces.
 - **Next.js**: A React framework for server-side rendering and static site generation.
 - **Database**: [Specify the database used, e.g., MongoDB, PostgreSQL, etc.]
-- **[Any additional technologies or libraries used]**
